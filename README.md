@@ -3,7 +3,7 @@
   <div class="loader"><span>{</span>/<span>}</span></div>
 </div>
 
-```js
+```html
  .spinner {
         /* height: 100%; */
         height: 100vh;
